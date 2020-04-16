@@ -12,5 +12,5 @@ return arrayName
 }
 
 function addElementToEndOfArray(arrayName,newElement){
-newArray = []
+newArray = [...arrayName, ]
 }
