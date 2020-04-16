@@ -5,3 +5,5 @@ function addElementToBeginningOfArray(arrayName,newElement){
 newArray = [newElement, ...arrayName]
 return newArray
 }
+
+function destructivelyAddElementToBeginningOfArray()
