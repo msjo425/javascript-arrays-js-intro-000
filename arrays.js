@@ -31,4 +31,4 @@ return newArray
 function removeElementFromBeginningOfArray(newArray){
   return newArray.slice(1)
 }
-function destructivelyRemoveElementFromEndOfArray
+function destructivelyRemoveElementFromEndOfArray(newArray)
