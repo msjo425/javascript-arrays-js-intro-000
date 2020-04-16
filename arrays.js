@@ -6,6 +6,6 @@ newArray = [newElement, ...arrayName]
 return newArray
 }
 
-function destructivelyAddElementToBeginningOfArray(arrayName, newElemt){
+function destructivelyAddElementToBeginningOfArray(arrayName, newElement){
   
 }
