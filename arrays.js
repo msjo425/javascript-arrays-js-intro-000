@@ -15,3 +15,5 @@ function addElementToEndOfArray(arrayName,newElement){
 newArray = [...arrayName, newElement]
 return newArray
 }
+
+destructivelyAddElementToEndOfArray
