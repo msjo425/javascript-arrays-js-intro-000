@@ -29,5 +29,5 @@ return newArray
 }
 
 function removeElementFromBeginningOfArray(newArray){
-  
+  return newArray.
 }
