@@ -17,5 +17,5 @@ return newArray
 }
 
 function destructivelyAddElementToEndOfArray(arrayName, newElement){
-  
+  arrayName
 }
