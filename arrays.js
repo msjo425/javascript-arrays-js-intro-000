@@ -28,4 +28,6 @@ newArray.shift()
 return newArray
 }
 
-function removeElementFromBeginningOfArray(newArray)
+function removeElementFromBeginningOfArray(newArray){
+  
+}
