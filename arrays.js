@@ -16,4 +16,4 @@ newArray = [...arrayName, newElement]
 return newArray
 }
 
-destructivelyAddElementToEndOfArray
+function destructivelyAddElementToEndOfArray
