@@ -7,5 +7,5 @@ return newArray
 }
 
 function destructivelyAddElementToBeginningOfArray(arrayName, newElement){
-arrayName = arrayName.upshift()
+arrayName = arrayName.upshift(newElement)
 }
